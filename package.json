@@ -5,7 +5,7 @@
   "author": "jiangxy <foolbeargm@gmail.com>",
   "license": "Apache-2.0",
   "engines": {
-    "node": ">=5.0 <7",
+    "node": ">=5.0 <10",
     "npm": ">=3.3 <4"
   },
   "repository": {
